@@ -64,8 +64,8 @@ return that;
 
 // Get canvas
 canvas = document.getElementById("coinAnimation");
-canvas.height = 76.672;
-canvas.width = 149.351;
+canvas.height = 80;
+canvas.width = 155;
 
 // Create sprite sheet
 coinImage = new Image();	

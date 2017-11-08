@@ -1,0 +1,14 @@
+{
+    "name": "basicwebsite",
+    "version": "0.0.0",
+    "description": "F/12 Basic Website",
+    "main": "main.js",
+    "scripts": {
+      "test": "./node_modules/.bin/mocha test/"
+    },
+    "author": "Pat Selover",
+    "license": "Apache-2.0",
+    "devDependencies": {
+    }
+  }
+  
