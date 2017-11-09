@@ -1,0 +1,9 @@
+{
+    "title":"Home Page",
+    "stylesheet":"style",
+    "sections":["About Me","About the Site"],
+    "descriptions":{"About Me": "",
+                    "About the Site": ""
+    },
+    "images":[]
+}
