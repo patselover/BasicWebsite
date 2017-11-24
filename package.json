@@ -9,7 +9,7 @@
     "author": "Pat Selover",
     "license": "Apache-2.0",
     "devDependencies": {
-      "jquery": "^3.2.1"
+      "jquery": "^3.2.1",
     }
   }
   
